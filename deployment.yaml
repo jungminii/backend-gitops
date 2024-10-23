@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: aksaz01devvvd01registry.azurecr.io/s686/azurepractice:20241023143133
+        image: aksaz01devvvd01registry.azurecr.io/jungminii/edu1:20241023143133
         imagePullPolicy: Always
         env:
           - name: SPRING_PROFILES_ACTIVE
